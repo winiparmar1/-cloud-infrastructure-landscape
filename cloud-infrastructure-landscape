@@ -1,0 +1,17 @@
+## What's in here
+
+| File | What it covers |
+|---|---|
+| [01 — Market overview](./01-market-overview.md) | Market size, growth rates, and share data — updated Q1 2026 |
+| [02 — Provider breakdown](./02-provider-breakdown.md) | AWS vs Azure vs GCP from a seller's perspective |
+| [03 — Buyer decision map](./03-buyer-decision-map.md) | Who buys cloud, why they buy it, and what actually drives decisions |
+| [04 — Cloud × SaaS convergence](./04-cloud-saas-convergence.md) | How cloud infrastructure and SaaS buying are colliding |
+| [05 — Sales angles](./05-sales-angles.md) | How to use this landscape to create better conversations |
+
+---
+
+## Why this exists
+
+Most cloud comparisons are written for engineers. This one is written for sellers, sales engineers, and anyone who needs to hold a credible conversation with a VP Engineering, CTO, or CFO about cloud infrastructure decisions.
+
+Understanding the landscape your buyer lives in — their cloud provider, their governance challenges, their FinOps pressure — is the difference between a vendor conversation and a strategic one.
